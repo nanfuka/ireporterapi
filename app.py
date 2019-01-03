@@ -1,4 +1,4 @@
-from app.views import app
+from views import app
 
 """Runs the app"""
 if __name__ == '__main__':
